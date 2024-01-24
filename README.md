@@ -1,4 +1,6 @@
-## Olá! eu sou o Vandeilson
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e67e22&size=35&center=true&vCenter=true&width=1000&lines=Olá+meu+nome+e+Vandeilson+Vitor;Eu+sou+de+São+Paulo+SP;Developer+Front-End)](https://git.io/typing-svg)
+
 👩‍💻😎😍 Apaixonado por tecnologia.
 👨‍🎓 Estudando Analise Desenvolvimento de Sistemas.
 <div style="display: inline_block"><br>
@@ -19,11 +21,3 @@
   
 </div>
 
-
-<br/>
-
-[![Rodolfo's github stats](https://github-readme-stats.vercel.app/api?username=Vitor-dez&show_icons=true&theme=dark)](https://github.com/Vitor-dez-stats)
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-dez&layout=compact&show_icons=true&theme=dark)](https://github.com/Vitor-dez-stats)
